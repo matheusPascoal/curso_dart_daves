@@ -23,3 +23,4 @@ void main() {
   var naoMudaTipo = 'Aceita qualquer valor numeros ou texto mas nao se muda';
   print(naoMudaTipo);
 }
+//dart
